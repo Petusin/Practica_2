@@ -20,7 +20,7 @@ public class Main {
 		System.out.println("StudioManhattan");
 		System.out.println(studioManhattan.priceDifference(twoRoomsBrooklyn));
 		//35400
-		System.out.println("ourAndKitchenBronx");
+		System.out.println("fourAndKitchenBronx");
 		System.out.println(fourAndKitchenBronx.priceDifference(twoRoomsBrooklyn) + "\n");
 				
 				
@@ -29,7 +29,7 @@ public class Main {
 		System.out.println("StudioManhattan");
 		System.out.println(studioManhattan.moreExpensiveThan(twoRoomsBrooklyn));
 		//true
-		System.out.println("ourAndKitchenBronx");
+		System.out.println("fourAndKitchenBronx");
 		System.out.println(fourAndKitchenBronx.moreExpensiveThan(twoRoomsBrooklyn));
 				
 
